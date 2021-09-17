@@ -1,5 +1,5 @@
 # Movie Analysis Project by Brooke Smyth, Garrett Williams, and Scott Schumann
-![Microsoft.webp](Microsoft.webp)
+<img src="./Images/Microsoft.webp">
 **Overview:** Microsoft has decided to create a new movie studio, and they have requested our help to determine what decisions they should make to be successful. Our job is to analyze relevant data to determine which films are doing well at the box office, and which factors related to these successful films Microsoft can focus on in order to establish their new movie studio. 
 
 **Business Problem:** Given that there are a number of factors that could be potentially related to the success of movies, we decided that we wanted to focus on individual people who have expertise in the industry that could help Microsoft with a successful start to their studio. Given the manner in which movies are made, we decided to focus in particular on three important categories of people who work in film:
