@@ -1,4 +1,5 @@
 # Movie Analysis Project by Brooke Smyth, Garrett Williams, and Scott Schumann
+
 <img src="./Images/Microsoft.webp">
 
 **Overview:** Microsoft has decided to create a new movie studio, and they have requested our help to determine what decisions they should make to be successful. Our job is to analyze relevant data to determine which films are doing well at the box office, and which factors related to these successful films Microsoft can focus on in order to establish their new movie studio. 
@@ -10,6 +11,7 @@
 3) Writers
 
 Our three actionable insights in the notebook that follows include lists of the top directors, actors/actresses, and writers sorted by highest median return on investment (ROI). We focused on ROI so that Microsoft could have a better chance at making a profit with their new studio, and we focused on median ROI as our measure of central tendency given that this would elimate significant outliers.
+
 <img src="./Images/movies_films_reel_clapboard.jpeg">
 
 **Data Understanding:** For this project, we decided to use data collected from IMDB and The Numbers (TN). We were specifically interested in data relating to individual people (directors, actors/actresses, writers) which we found on IMDB, as well as data relating to the financial success of each film (ROI) which we found on TN. We thus decided to use data from these two sources, and merged the data frames to isolate the variables described below.
@@ -19,19 +21,27 @@ Our three actionable insights in the notebook that follows include lists of the 
 # Data Modeling
 ## Getting Top Directors by Highest Median ROI
 The first category in our data set that we want to analyze are the top directors by highest median ROI.
+
 <img src="./Images/Directors_median.png">
+
 <img src="./Images/Sandberg.png">
+
 <img src="./Images/Landon.png">
+
 <img src="./Images/Gray.png">
+
 <img src="./Images/Chu.png">
+
 <img src="./Images/Spielberg.png">
 
 ## Getting Top Actors/Actresses by Highest Median ROI
 Next on our list after analyzing top directors is to analyze the top actors/actresses by highest median ROI.
+
 <img src="./Images/Actors.png">
 
 ## Getting Top Writers by Highest Median ROI
 Now that we have explored the top directors and actors by highest median ROI, the final recommendation that we want to make for Microsoft movie studios is for the top writers by highest median ROI.
+
 <img src="./Images/writers_median.png">
 
 # Conclusions
