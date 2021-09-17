@@ -1,11 +1,11 @@
 # Movie Analysis Project by Brooke Smyth, Garrett Williams, and Scott Schumann
-![mslogo.jpeg](attachment:mslogo.jpeg)
+![Microsoft.webp](Microsoft.webp)
 **Overview:** Microsoft has decided to create a new movie studio, and they have requested our help to determine what decisions they should make to be successful. Our job is to analyze relevant data to determine which films are doing well at the box office, and which factors related to these successful films Microsoft can focus on in order to establish their new movie studio. 
 
 **Business Problem:** Given that there are a number of factors that could be potentially related to the success of movies, we decided that we wanted to focus on individual people who have expertise in the industry that could help Microsoft with a successful start to their studio. Given the manner in which movies are made, we decided to focus in particular on three important categories of people who work in film:
 
-1) Directors\
-2) Actors/Actresses\
+1) Directors
+2) Actors/Actresses
 3) Writers
 
 Our three actionable insights in the notebook that follows include lists of the top directors, actors/actresses, and writers sorted by highest median return on investment (ROI). We focused on ROI so that Microsoft could have a better chance at making a profit with their new studio, and we focused on median ROI as our measure of central tendency given that this would elimate significant outliers.
@@ -56,6 +56,6 @@ Now that we have presented our findings, we can discuss some potential next step
 
 3) Finally, we might try to eliminate sequels from our data set, as successful movie franchises could potentially skew the data in favor of individuals who worked on multiple films.
 # For More Information
-See the full analysis in the [Jupyter Notebook](https://github.com/Shoemaker703/Movie_Analysis_Project/blob/main/Earth_Movie_Analysis_Project.ipynb) or review this presentation [presentation](https://docs.google.com/presentation/d/1AM7aVhYayuelQkxb7moxlukdQMellhBmODQ_TJS7NkM/edit#slide=id.gf0987ac7a7_1_16).
+See the full analysis in the [Jupyter Notebook](https://github.com/Shoemaker703/Movie_Analysis_Project/blob/main/Earth_Movie_Analysis_Project.ipynb) or review this presentation [presentation](https://docs.google.com/presentation/d/1AM7aVhYayuelQkxb7moxlukdQMellhBmODQ_TJS7NkM/edit#slide=id.p).
 
 For additional info, contact Brooke Smyth at brookejsmyth@gmail.com, Garrett Williams at garrettwilliams90@gmail.com, or Scott Schumann at Scott.Schumann1@gmail.com
